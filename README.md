@@ -1,0 +1,1 @@
+Custom Kafka Connector image for Elasticsearch
